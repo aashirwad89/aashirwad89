@@ -4,15 +4,14 @@
 
 <div align="center">
 
-  <!-- Custom Dark Gray SVG Banner -->
-  <img src="assets/hero-banner.svg" width="100%" alt="Aashirwad Singh — Software Developer" />
+  <h1>Hi, I'm Aashirwad Singh</h1>
 
-  <br /><br />
+  <p>Building digital experiences, one commit at a time.</p>
 
   <!-- Dynamic Typing Subtitle -->
   <a href="https://github.com/aashirwad89" target="_blank" rel="noopener noreferrer">
     <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=D4D4D8&center=true&vCenter=true&width=420&height=40&lines=Software+Developer"
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=D4D4D8&center=true&vCenter=true&width=420&height=36&lines=Software+Developer"
       alt="Software Developer"
     />
   </a>
@@ -86,8 +85,9 @@ I'm **Aashirwad Singh**, a **Software Developer** focused on building scalable, 
       <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
         <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel&theme=dark" height="42" alt="Tools: Git, GitHub, Postman, VS Code, Vercel" />
       </a>
+      <img src="assets/icon-hetzner.svg" height="42" alt="Hetzner" />
       <br /><br />
-      <sub><code>Git</code> · <code>GitHub</code> · <code>Postman</code> · <code>VS Code</code> · <code>Vercel</code></sub>
+      <sub><code>Git</code> · <code>GitHub</code> · <code>Postman</code> · <code>VS Code</code> · <code>Vercel</code> · <code>Hetzner</code></sub>
     </td>
     <td width="50%" align="center" valign="top">
       <p><strong>Exploring</strong></p>
@@ -97,107 +97,6 @@ I'm **Aashirwad Singh**, a **Software Developer** focused on building scalable, 
     </td>
   </tr>
 </table>
-
-<br />
-<img src="assets/divider.svg" width="100%" alt="" />
-<br />
-
-<!-- ========================================================================= -->
-<!-- FEATURED PROJECTS                                                         -->
-<!-- Replace the #featured-projects placeholder hrefs and tech stack tags      -->
-<!-- below with your live repository and deployment URLs.                      -->
-<!-- ========================================================================= -->
-
-<h3 id="featured-projects">Featured Projects</h3>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <img src="assets/card-devsync.svg" width="100%" alt="DevSync" />
-      <p>
-        A GitHub-inspired developer collaboration platform built for streamlined code workflows and team coordination.
-      </p>
-      <p>
-        <strong>Stack:</strong> <code>[Add Tech Stack]</code>
-      </p>
-      <p>
-        <!-- TODO: Replace with actual DevSync repository and live demo URLs -->
-        <a href="#featured-projects">GitHub Repository (Placeholder)</a> &nbsp;·&nbsp;
-        <a href="#featured-projects">Live Demo (Placeholder)</a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <img src="assets/card-echomeet.svg" width="100%" alt="EchoMeet" />
-      <p>
-        A real-time video conferencing application enabling peer-to-peer rooms and live signaling via WebRTC and Socket.io.
-      </p>
-      <p>
-        <!-- TODO: Append any additional frontend/backend technologies used -->
-        <strong>Stack:</strong> <code>WebRTC</code> · <code>Socket.io</code>
-      </p>
-      <p>
-        <!-- TODO: Replace with actual EchoMeet repository and live demo URLs -->
-        <a href="#featured-projects">GitHub Repository (Placeholder)</a> &nbsp;·&nbsp;
-        <a href="#featured-projects">Live Demo (Placeholder)</a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="assets/card-wanderbook.svg" width="100%" alt="WanderBook" />
-      <p>
-        A hotel booking web application designed for intuitive stay discovery, listing management, and reservation flows.
-      </p>
-      <p>
-        <strong>Stack:</strong> <code>[Add Tech Stack]</code>
-      </p>
-      <p>
-        <!-- TODO: Replace with actual WanderBook repository and live demo URLs -->
-        <a href="#featured-projects">GitHub Repository (Placeholder)</a> &nbsp;·&nbsp;
-        <a href="#featured-projects">Live Demo (Placeholder)</a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <img src="assets/card-jobbr.svg" width="100%" alt="Jobbr" />
-      <p>
-        A job-related web application built to connect candidates with opportunities and simplify application workflows.
-      </p>
-      <p>
-        <strong>Stack:</strong> <code>[Add Tech Stack]</code>
-      </p>
-      <p>
-        <!-- TODO: Replace with actual Jobbr repository and live demo URLs -->
-        <a href="#featured-projects">GitHub Repository (Placeholder)</a> &nbsp;·&nbsp;
-        <a href="#featured-projects">Live Demo (Placeholder)</a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br />
-<img src="assets/divider.svg" width="100%" alt="" />
-<br />
-
-<!-- ========================================================================= -->
-<!-- CONTRIBUTIONS                                                             -->
-<!-- Snake SVG is generated onto the `output` branch via .github/workflows/snake.yml -->
-<!-- ========================================================================= -->
-
-### Contributions
-
-<div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aashirwad89/aashirwad89/output/github-snake-dark.svg?v=2" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aashirwad89/aashirwad89/output/github-snake.svg?v=2" />
-    <img
-      width="100%"
-      alt="GitHub contribution snake animation"
-      src="https://raw.githubusercontent.com/aashirwad89/aashirwad89/output/github-snake-dark.svg?v=2"
-    />
-  </picture>
-
-</div>
 
 <br />
 <img src="assets/divider.svg" width="100%" alt="" />
