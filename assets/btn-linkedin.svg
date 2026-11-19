@@ -1,0 +1,20 @@
+<svg width="164" height="42" viewBox="0 0 164 42" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="LinkedIn">
+  <defs>
+    <linearGradient id="btnBg" x1="0" y1="0" x2="164" y2="42" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#11101A" />
+      <stop offset="100%" stop-color="#181426" />
+    </linearGradient>
+  </defs>
+  <rect x="0.75" y="0.75" width="162.5" height="40.5" rx="10" fill="url(#btnBg)" stroke="#332A52" stroke-width="1.2" />
+  <!-- LinkedIn Icon -->
+  <g transform="translate(20, 12)" stroke="#C084FC" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="1.5" y="1.5" width="15" height="15" rx="3" />
+    <line x1="5.5" y1="7.5" x2="5.5" y2="12.5" />
+    <circle cx="5.5" cy="5.2" r="0.6" fill="#C084FC" />
+    <path d="M9 12.5 V7.5 M9 9.5 C9 8 12.5 7.8 12.5 10 V12.5" />
+  </g>
+  <text x="48" y="25.5" fill="#F4F4F5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" letter-spacing="0.2">
+    LinkedIn
+  </text>
+  <path d="M138 24 L144 18 M144 18 H139.5 M144 18 V22.5" stroke="#8B5CF6" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+</svg>
