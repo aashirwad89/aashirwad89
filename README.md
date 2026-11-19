@@ -6,7 +6,7 @@
 
   <h1>Hi, I'm Aashirwad Singh</h1>
 
-  <p>Building digital experiences, one commit at a time.</p>
+  <p>Code. Learn. Build. Repeat. 💻</p>
 
   <!-- Dynamic Typing Subtitle -->
   <a href="https://github.com/aashirwad89" target="_blank" rel="noopener noreferrer">
