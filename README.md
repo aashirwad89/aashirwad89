@@ -4,16 +4,16 @@
 
 <div align="center">
 
-  <!-- Custom Dark Obsidian & Violet SVG Banner -->
-  <img src="assets/hero-banner.svg" width="100%" alt="Aashirwad Singh — Full Stack Developer | Software Engineer" />
+  <!-- Custom Dark Gray SVG Banner -->
+  <img src="assets/hero-banner.svg" width="100%" alt="Aashirwad Singh — Software Developer" />
 
   <br /><br />
 
-  <!-- Dynamic Typing Role Subtitle -->
-  <a href="https://portfolio-aashirwad.vercel.app" target="_blank" rel="noopener noreferrer">
+  <!-- Dynamic Typing Subtitle -->
+  <a href="https://github.com/aashirwad89" target="_blank" rel="noopener noreferrer">
     <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=480&height=42&lines=Full+Stack+Developer;MERN+Stack+Developer;Software+Engineer;Problem+Solver"
-      alt="Full Stack Developer | MERN Stack Developer | Software Engineer | Problem Solver"
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=D4D4D8&center=true&vCenter=true&width=420&height=40&lines=Software+Developer"
+      alt="Software Developer"
     />
   </a>
 
@@ -44,12 +44,11 @@
 
 ### About Me
 
-I'm **Aashirwad Singh**, a **Full Stack Developer** and **Software Engineer** passionate about designing and shipping scalable, production-ready web applications with clean aesthetics and resilient engineering under the hood.
+I'm **Aashirwad Singh**, a **Software Developer** focused on building scalable, production-ready web applications with clean architecture and dependable engineering.
 
-- **Production Engineering:** Experience building and maintaining real-world web applications from architecture to deployment.
-- **Systems & Architecture:** Deeply interested in clean architecture, reliable backend systems, AI integrations, and modern developer tools.
-- **Continuous Growth:** Actively sharpening Data Structures & Algorithms (DSA) and exploring applied AI engineering.
-- **Portfolio:** Explore my work and background at [portfolio-aashirwad.vercel.app](https://portfolio-aashirwad.vercel.app).
+- **Production Engineering:** Experience working on real-world projects and production applications from design to deployment.
+- **Systems & Architecture:** Interested in clean architecture, reliable backend systems, AI integrations, and modern developer tools.
+- **Continuous Growth:** Actively strengthening Data Structures & Algorithms (DSA) and exploring AI engineering.
 
 <br />
 <img src="assets/divider.svg" width="100%" alt="" />
@@ -63,39 +62,38 @@ I'm **Aashirwad Singh**, a **Full Stack Developer** and **Software Engineer** pa
 
 <table width="100%">
   <tr>
-    <td width="150" valign="middle"><strong>Frontend</strong></td>
-    <td valign="middle">
+    <td width="50%" align="center" valign="top">
+      <p><strong>Frontend</strong></p>
       <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
-        <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind&theme=dark" alt="Frontend: React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS" />
+        <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind&theme=dark" height="42" alt="Frontend: React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS" />
       </a>
-      <br />
-      <sub>React &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; HTML &nbsp;·&nbsp; CSS &nbsp;·&nbsp; Tailwind CSS</sub>
+      <br /><br />
+      <sub><code>React</code> · <code>Next.js</code> · <code>TypeScript</code> · <code>JavaScript</code> · <code>HTML</code> · <code>CSS</code> · <code>Tailwind CSS</code></sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <p><strong>Backend</strong></p>
+      <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&theme=dark" height="42" alt="Backend: Node.js, Express.js, MongoDB, PostgreSQL" />
+      </a>
+      <img src="assets/icon-socketio.svg" height="42" alt="Socket.io" />
+      <br /><br />
+      <sub><code>Node.js</code> · <code>Express.js</code> · <code>MongoDB</code> · <code>PostgreSQL</code> · <code>Socket.io</code></sub>
     </td>
   </tr>
   <tr>
-    <td width="150" valign="middle"><strong>Backend</strong></td>
-    <td valign="middle">
+    <td width="50%" align="center" valign="top">
+      <p><strong>Tools</strong></p>
       <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&theme=dark" alt="Backend: Node.js, Express.js, MongoDB, PostgreSQL, Socket.io" />
+        <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel&theme=dark" height="42" alt="Tools: Git, GitHub, Postman, VS Code, Vercel" />
       </a>
-      <br />
-      <sub>Node.js &nbsp;·&nbsp; Express.js &nbsp;·&nbsp; MongoDB &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; Socket.io</sub>
+      <br /><br />
+      <sub><code>Git</code> · <code>GitHub</code> · <code>Postman</code> · <code>VS Code</code> · <code>Vercel</code></sub>
     </td>
-  </tr>
-  <tr>
-    <td width="150" valign="middle"><strong>Tools</strong></td>
-    <td valign="middle">
-      <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
-        <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel&theme=dark" alt="Tools: Git, GitHub, Postman, VS Code, Vercel" />
-      </a>
-      <br />
-      <sub>Git &nbsp;·&nbsp; GitHub &nbsp;·&nbsp; Postman &nbsp;·&nbsp; VS Code &nbsp;·&nbsp; Vercel</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="150" valign="middle"><strong>Exploring</strong></td>
-    <td valign="middle">
-      <sub>AI Engineering &nbsp;·&nbsp; Retrieval-Augmented Generation (RAG) &nbsp;·&nbsp; LangChain &nbsp;·&nbsp; System Design</sub>
+    <td width="50%" align="center" valign="top">
+      <p><strong>Exploring</strong></p>
+      <img src="assets/tech-exploring.svg" height="40" alt="Exploring: AI, RAG, LangChain, System Design" />
+      <br /><br />
+      <sub><code>AI</code> · <code>RAG</code> · <code>LangChain</code> · <code>System Design</code></sub>
     </td>
   </tr>
 </table>
@@ -181,72 +179,21 @@ I'm **Aashirwad Singh**, a **Full Stack Developer** and **Software Engineer** pa
 <br />
 
 <!-- ========================================================================= -->
-<!-- GITHUB STATISTICS                                                         -->
+<!-- CONTRIBUTIONS                                                             -->
+<!-- Snake SVG is generated onto the `output` branch via .github/workflows/snake.yml -->
 <!-- ========================================================================= -->
 
-### GitHub Statistics
+### Contributions
 
 <div align="center">
 
-  <a href="https://github.com/aashirwad89" target="_blank" rel="noopener noreferrer">
-    <img
-      height="170"
-      src="https://github-stats-extended.vercel.app/api?username=aashirwad89&show_icons=true&bg_color=0d1117&border_color=27223b&title_color=c084fc&icon_color=8b5cf6&text_color=d4d4d8&border_radius=10"
-      alt="Aashirwad Singh's GitHub Stats (View profile on github.com/aashirwad89)"
-    />
-  </a>
-  &nbsp;
-  <a href="https://github.com/aashirwad89" target="_blank" rel="noopener noreferrer">
-    <img
-      height="170"
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=aashirwad89&layout=compact&langs_count=8&bg_color=0d1117&border_color=27223b&title_color=c084fc&text_color=d4d4d8&border_radius=10"
-      alt="Aashirwad Singh's Top Languages (View profile on github.com/aashirwad89)"
-    />
-  </a>
-
-  <br /><br />
-
-  <a href="https://github.com/aashirwad89" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://streak-stats.demolab.com?user=aashirwad89&background=0d1117&border=27223b&stroke=27223b&ring=8b5cf6&fire=a855f7&currStreakNum=f4f4f5&sideNums=f4f4f5&currStreakLabel=c084fc&sideLabels=a1a1aa&dates=71717a&border_radius=10"
-      alt="Aashirwad Singh's GitHub Streak Stats (View profile on github.com/aashirwad89)"
-    />
-  </a>
-
-</div>
-
-<br />
-<img src="assets/divider.svg" width="100%" alt="" />
-<br />
-
-<!-- ========================================================================= -->
-<!-- CONTRIBUTIONS & ACTIVITY                                                  -->
-<!-- Note: The snake SVG below is generated by .github/workflows/snake.yml     -->
-<!-- onto the `output` branch. Run that workflow once after pushing to enable. -->
-<!-- ========================================================================= -->
-
-### Contributions & Activity
-
-<div align="center">
-
-  <a href="https://github.com/aashirwad89" target="_blank" rel="noopener noreferrer">
-    <img
-      width="100%"
-      src="https://github-readme-activity-graph.vercel.app/graph?username=aashirwad89&bg_color=0d1117&color=a1a1aa&line=8b5cf6&point=c084fc&area=true&area_color=7c3aed&title_color=c084fc&border_color=27223b&radius=10&custom_title=Contribution%20Activity"
-      alt="Aashirwad Singh's GitHub Contribution Graph (View profile on github.com/aashirwad89)"
-    />
-  </a>
-
-  <br /><br />
-
-  <!-- Contribution Snake Animation (generated via .github/workflows/snake.yml) -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aashirwad89/aashirwad89/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aashirwad89/aashirwad89/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aashirwad89/aashirwad89/output/github-snake-dark.svg?v=2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aashirwad89/aashirwad89/output/github-snake.svg?v=2" />
     <img
       width="100%"
-      alt="GitHub contribution snake animation (run the Generate Contribution Snake workflow to populate)"
-      src="https://raw.githubusercontent.com/aashirwad89/aashirwad89/output/github-snake-dark.svg"
+      alt="GitHub contribution snake animation"
+      src="https://raw.githubusercontent.com/aashirwad89/aashirwad89/output/github-snake-dark.svg?v=2"
     />
   </picture>
 
